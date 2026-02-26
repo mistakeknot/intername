@@ -1,0 +1,41 @@
+{
+  "_meta": {
+    "name": "Culture",
+    "description": "Dry wit, polite menace, and bureaucratic absurdity — inspired by Iain M. Banks' Culture ship names.",
+    "author": "MK"
+  },
+  "agencies": {
+    "flux-drive": "The Difficult Second Album",
+    "flux-research": "Just Browsing Thanks",
+    "flux-gen": "Manufacturing Consent",
+    "clavain": "Conditions Of Surrender",
+    "intersynth": "Herding Findings"
+  },
+  "agents": {
+    "fd-architecture": "Fair Warning",
+    "fd-safety": "Lapsed Pacifist",
+    "fd-correctness": "Conditions Apply",
+    "fd-quality": "Conditions Of Satisfaction",
+    "fd-user-product": "Conditions At The Customer Interface",
+    "fd-performance": "Whose Idea Was This",
+    "fd-game-design": "Playing Both Sides",
+    "fd-systems": "Second Order Effects",
+    "fd-decisions": "The Committee Stage",
+    "fd-people": "Terms Of Endearment",
+    "fd-resilience": "Failing Gracefully",
+    "fd-perception": "Conditions Of Visibility",
+    "repo-research": "Rummaging Through Your Things",
+    "framework-docs": "Reading The Fine Manual",
+    "git-history": "Whose Fault Was This",
+    "learnings": "Previously On This Channel",
+    "best-practices": "Someone Elses Problem",
+    "voice-analyzer": "Studying Your Inflection",
+    "synthesize-review": "On Aggregate",
+    "synthesize-research": "Gathering Wool",
+    "agent-native-reviewer": "Does It Work For Robots",
+    "data-migration-expert": "Moving Without Breaking",
+    "plan-reviewer": "The Architecture Astronaut",
+    "bug-reproduction-validator": "Seeing Is Believing",
+    "pr-comment-resolver": "Noted And Addressed"
+  }
+}

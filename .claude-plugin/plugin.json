@@ -1,0 +1,22 @@
+{
+  "name": "intername",
+  "version": "0.1.0",
+  "description": "Agent and agency naming for legible orchestration — memorable, deterministic identities across all surfaces.",
+  "author": {
+    "name": "MK",
+    "email": "mistakeknot@vibeguider.org"
+  },
+  "repository": "https://github.com/mistakeknot/intername",
+  "license": "MIT",
+  "keywords": [
+    "naming",
+    "identity",
+    "legibility",
+    "orchestration",
+    "agents"
+  ],
+  "commands": [
+    "./commands/name.md",
+    "./commands/name-theme.md"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "_meta": {
+    "name": "Demarch",
+    "description": "Boundary concepts, diplomatic terms, and liminal vocabulary — reflecting the inter-* philosophy of the space between things.",
+    "author": "MK"
+  },
+  "agencies": {
+    "flux-drive": "Threshold Caucus",
+    "flux-research": "Open Inquiry",
+    "flux-gen": "Pattern Foundry",
+    "clavain": "Standing Committee",
+    "intersynth": "Consensus Chamber"
+  },
+  "agents": {
+    "fd-architecture": "Surveyor",
+    "fd-safety": "Sentinel",
+    "fd-correctness": "Arbiter",
+    "fd-quality": "Assessor",
+    "fd-user-product": "Advocate",
+    "fd-performance": "Gauge",
+    "fd-game-design": "Ludologist",
+    "fd-systems": "Cartographer",
+    "fd-decisions": "Deliberator",
+    "fd-people": "Mediator",
+    "fd-resilience": "Bulwark",
+    "fd-perception": "Observer",
+    "repo-research": "Archivist",
+    "framework-docs": "Librarian",
+    "git-history": "Chronicler",
+    "learnings": "Remembrancer",
+    "best-practices": "Consul",
+    "voice-analyzer": "Interpreter",
+    "synthesize-review": "Rapporteur",
+    "synthesize-research": "Compiler",
+    "agent-native-reviewer": "Emissary",
+    "data-migration-expert": "Ferryman",
+    "plan-reviewer": "Strategist",
+    "bug-reproduction-validator": "Coroner",
+    "pr-comment-resolver": "Respondent"
+  }
+}

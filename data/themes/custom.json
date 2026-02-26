@@ -1,0 +1,9 @@
+{
+  "_meta": {
+    "name": "Custom",
+    "description": "Your own names. Add entries here to override any theme, or build a complete custom naming scheme.",
+    "author": "user"
+  },
+  "agencies": {},
+  "agents": {}
+}

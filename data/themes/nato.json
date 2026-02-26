@@ -1,0 +1,41 @@
+{
+  "_meta": {
+    "name": "NATO",
+    "description": "Short, distinctive, unambiguous — NATO phonetic alphabet with adjective modifiers. Maximum UI compatibility.",
+    "author": "MK"
+  },
+  "agencies": {
+    "flux-drive": "Strike Victor",
+    "flux-research": "Recon Sierra",
+    "flux-gen": "Forge Delta",
+    "clavain": "Command Alpha",
+    "intersynth": "Merge Echo"
+  },
+  "agents": {
+    "fd-architecture": "Steady Foxtrot",
+    "fd-safety": "Red Bravo",
+    "fd-correctness": "Sharp Charlie",
+    "fd-quality": "Clear Quebec",
+    "fd-user-product": "Swift Uniform",
+    "fd-performance": "Fast Papa",
+    "fd-game-design": "Wild Golf",
+    "fd-systems": "Deep Sierra",
+    "fd-decisions": "Prime Delta",
+    "fd-people": "Warm Hotel",
+    "fd-resilience": "Hard Romeo",
+    "fd-perception": "Keen Kilo",
+    "repo-research": "Scout Romeo",
+    "framework-docs": "Read Foxtrot",
+    "git-history": "Track Golf",
+    "learnings": "Log Lima",
+    "best-practices": "Guide Bravo",
+    "voice-analyzer": "Tone Victor",
+    "synthesize-review": "Sum Sierra",
+    "synthesize-research": "Brief Romeo",
+    "agent-native-reviewer": "Check Alpha",
+    "data-migration-expert": "Move Mike",
+    "plan-reviewer": "Plan Papa",
+    "bug-reproduction-validator": "Test Tango",
+    "pr-comment-resolver": "Fix Foxtrot"
+  }
+}
